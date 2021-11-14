@@ -1,5 +1,7 @@
 <!-- badges: start -->
   [![R-CMD-check](https://github.com/srhaup2/test.package/workflows/R-CMD-check/badge.svg)](https://github.com/srhaup2/test.package/actions)
+  
+  [![test-coverage](https://github.com/srhaup2/test.package/actions/workflows/test-coverage.yaml/badge.svg)](https://github.com/srhaup2/test.package/actions/workflows/test-coverage.yaml)
 <!-- badges: end -->
 
 
